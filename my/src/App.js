@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit reactCode and save to reload.
+        </p>
+        <p>
+          now, it is time to test your git command.
         </p>
         <a
           className="App-link"
